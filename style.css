@@ -1,0 +1,11 @@
+#header{
+    position:absolute; background-color:black; width:100%; top:0%; left:0%;
+    height: 10%;
+}
+.cname{
+    color:white; position: absolute; top:-10%; left:7%;
+}
+.menu{
+    color:whitesmoke; position: absolute; top:35%; right:10%;
+    
+}
